@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "lead_name": "Mahesh Rao",
+        "land_area": "10 Grounds",
+        "purchase_cost": 40000000,
+        "construction_cost": 50000000,
+        "marketing_cost": 5000000,
+        "legal_cost": 2500000,
+        "registration_charges": 3000000,
+        "working_capital": 5000000,
+        "other_expenses": 1200000,
+        "expected_units": 80,
+        "estimated_revenue": 120000000,
+        "profit": 30000000,
+        "roi_percent": 30,
+        "construction_timeline": "12 Months",
+        "risk_score": 22,
+        "evaluation_notes": "Healthy margin with moderate legal risk.",
+        "status": "Recommended"
+    }
+]

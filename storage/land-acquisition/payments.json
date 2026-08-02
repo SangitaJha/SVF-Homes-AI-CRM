@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "lead_name": "Mahesh Rao",
+        "payment_type": "Registration Payment",
+        "paid_amount": 10000000,
+        "pending_amount": 20000000,
+        "due_amount": 20000000,
+        "due_date": "2026-08-20",
+        "payment_history": "Token advance paid; registration pending",
+        "payment_status": "Pending",
+        "notes": "Reminder due in 7 days."
+    }
+]

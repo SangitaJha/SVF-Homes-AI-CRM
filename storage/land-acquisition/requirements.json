@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "requirement_name": "Mysuru Growth Corridor",
+        "preferred_location": "Mysuru",
+        "area_required": "12 Grounds",
+        "unit": "Ground",
+        "road_width": "30 ft",
+        "budget_range": "\u20b93.5 Crore - \u20b94.5 Crore",
+        "preferred_zone": "North",
+        "project_type": "Apartment",
+        "expected_units": 120,
+        "priority": "High",
+        "assigned_employee": "Ravi Kumar",
+        "expected_purchase_date": "2026-10-01",
+        "remarks": "Priority project for Q4 launch.",
+        "status": "In Progress"
+    },
+    {
+        "id": 2,
+        "requirement_name": "Coimbatore Logistics Park",
+        "preferred_location": "Coimbatore",
+        "area_required": "20 Grounds",
+        "unit": "Ground",
+        "road_width": "40 ft",
+        "budget_range": "\u20b95 Crore - \u20b96 Crore",
+        "preferred_zone": "East",
+        "project_type": "Commercial",
+        "expected_units": 60,
+        "priority": "Medium",
+        "assigned_employee": "Asha Menon",
+        "expected_purchase_date": "2026-11-15",
+        "remarks": "Commercial mix with warehouse and office.",
+        "status": "Shortlisted"
+    }
+]

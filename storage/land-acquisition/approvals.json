@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "lead_name": "Mahesh Rao",
+        "approval_stage": "Director",
+        "approval_status": "Approved",
+        "comments": "Proceed to final conversion",
+        "email_notifications": "Enabled",
+        "system_notifications": "Enabled",
+        "approval_history": "Land Executive > Land Manager > Legal Team > Director",
+        "digital_approval_status": "Signed"
+    }
+]

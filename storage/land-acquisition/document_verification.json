@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "lead_name": "Mahesh Rao",
+        "patta_verification": "Verified",
+        "ec_verification": "Verified",
+        "parent_document_verification": "Verified",
+        "ownership_verification": "Verified",
+        "survey_verification": "Verified",
+        "encumbrance_check": "Verified",
+        "government_approval_possibility": "High",
+        "litigation_check": "Verified",
+        "verification_status": "Verified",
+        "legal_remarks": "All documents consistent and ready for approval.",
+        "support_document_path": ""
+    }
+]

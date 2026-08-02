@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "visit_id": "SV-101",
+        "visit_date": "2026-07-31",
+        "visit_time": "10:00 AM",
+        "location": "Mysuru East",
+        "gps_coordinates": "12.2958,76.6394",
+        "assigned_employee": "Ravi Kumar",
+        "owner_meeting": "Yes",
+        "visit_notes": "Road connectivity is strong and the terrain is suitable.",
+        "status": "Scheduled"
+    }
+]

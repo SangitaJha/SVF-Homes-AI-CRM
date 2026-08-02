@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "lead_name": "Suresh Nair",
+        "owner_asking_price": 65000000,
+        "current_market_price": 62000000,
+        "svf_offer_price": 59000000,
+        "counter_offer": 60500000,
+        "final_agreed_price": 60000000,
+        "advance_amount": 10000000,
+        "payment_schedule": "50/50 split",
+        "negotiation_notes": "Owner requested 2 weeks for consent.",
+        "meeting_history": "Meeting 1 on 15 July; Meeting 2 on 22 July",
+        "negotiation_status": "In Progress",
+        "strategy_recommendation": "Edge: show recent local transactions and offer a flexible milestone structure."
+    }
+]

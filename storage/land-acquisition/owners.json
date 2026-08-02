@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "owner_name": "Mahesh Rao",
+        "father_name": "Ravi Rao",
+        "address": "Bogadi, Mysuru",
+        "mobile": "9876543210",
+        "email": "mahesh@example.com",
+        "pan": "ABCDE1234F",
+        "aadhaar": "1234 5678 9012",
+        "gst_number": "29ABCDE1234F1Z6",
+        "bank_details": "Axis Bank \u2022 123456789012",
+        "previous_ownership_details": "Private family ownership bundle",
+        "status": "Verified"
+    }
+]
