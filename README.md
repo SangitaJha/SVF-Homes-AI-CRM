@@ -1,6 +1,6 @@
 # SVF Homes AI CRM
 
-Production-ready PHP 8 MVC CRM for real estate leads, customers, projects, inventory, bookings, payments, documents, reports, notifications, and AI workflows.
+Production-ready PHP 8 MVC CRM for real estate leads, customers, projects, inventory, bookings, payments, documents, reports, notifications, and AI workflows. Production of the product is completed here properly.
 
 ## Installation
 
@@ -17,6 +17,7 @@ Production-ready PHP 8 MVC CRM for real estate leads, customers, projects, inven
 - Password: `password123`
 
 ## Notes
+
 
 - All uploaded files are stored in `uploads/` during development.
 - Web routes are handled from `index.php`.
